@@ -35,7 +35,7 @@ for i in nums:
         if col == 3:
             col = 0
             ro-=1
-#rgjneirgijerngi
+
 #Operations
 ro2=2
 
