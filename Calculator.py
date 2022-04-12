@@ -2,6 +2,7 @@ from tkinter import *
 import pdb
 
 root = Tk()
+root.title("Simple Calculator")
 
 user_input = Entry(root, width=30, borderwidth=5,)
 user_input.grid(row=0,columnspan=4,padx=5,pady=5)
